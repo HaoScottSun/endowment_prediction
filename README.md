@@ -4,7 +4,7 @@ The project aims at using machine learning methods to predict the endowment leve
 
 Content:
 
-1.Data Manipulation &Visualizations
+1.Data Manipulation & Visualizations
 
 2.PCA Analysis
 
