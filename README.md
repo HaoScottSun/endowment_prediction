@@ -1,4 +1,4 @@
-# endowment_prediction
+# Endowment Analytics
 
 The project aims at using machine learning methods to predict the endowment level of universities in the United States.
 
